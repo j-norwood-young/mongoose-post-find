@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/idottv/mongoose-post-find.git"
+    "url": "git://github.com/j-norwood-young/mongoose-post-find.git"
   },
   "keywords": [
     "mongoose",
@@ -30,7 +30,6 @@
     "async": "~0.2.9"
   },
   "readmeFilename": "README.md",
-  "gitHead": "3f8a3ff841b8486589dcbcddc46e9d51286a7ee5",
   "directories": {
     "test": "test"
   },
