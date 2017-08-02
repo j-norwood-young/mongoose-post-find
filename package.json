@@ -20,7 +20,7 @@
   ],
   "author": "taterbase",
   "dependencies": {
-    "mongoose": "~3.8.0"
+    "mongoose": "~4.11.5"
   },
   "devDependencies": {
     "coffee-script": "~1.6.3",
